@@ -62,14 +62,9 @@ And we get:
 {
     "data": [
         {
-            "author": "L.",
-            "bibliography": "Sp. pl. 2:1188.  1753",
             "common_name": "coconut palm",
             "family": "Arecaceae",
-            "family_common_name": "Palm family",
-            "genus": "Cocos",
-            "genus_id": 1916,
-            "id": 122263,
+            "family_common_name": "Palm family"
             "image_url": "https://bs.floristic.org/image/o/3d907876dd89dcf4880c50fb0786191a1cb95589",
             "links": {
                 "genus": "/api/v1/genus/cocos",
@@ -78,20 +73,6 @@ And we get:
             },
             "rank": "species",
             "scientific_name": "Cocos nucifera",
-            "slug": "cocos-nucifera",
-            "status": "accepted",
-            "synonyms": [
-                "Calappa nucifera",
-                "Cocos nana",
-                "Cocos indica",
-                "Palma cocos",
-                "Cocos mamillaris",
-                "Cocos nucifera var. synphyllica",
-                "Diplothemium henryanum",
-                "Cocos nucifera var. spicata"
-            ],
-            "year": 1753
-        },
         {
             "author": "Lodd. ex R.Keith (Jacq.)",
             "bibliography": "Miller's Dict. Gard.: 63 (1834)",
